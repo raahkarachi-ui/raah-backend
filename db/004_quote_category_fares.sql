@@ -1,0 +1,1 @@
+ALTER TABLE quotes ADD COLUMN IF NOT EXISTS category_fares jsonb;
